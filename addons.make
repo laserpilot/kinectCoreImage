@@ -1,0 +1,3 @@
+ofxGui
+ofxCoreImage
+ofxKinectV2

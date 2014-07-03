@@ -1,0 +1,8 @@
+<distance_in_mm>
+	<minDistance>300</minDistance>
+	<maxDistance>9600</maxDistance>
+	<Pix_Amount>77.5</Pix_Amount>
+<distance_in_mm/>
+	<Pix_Amount2>4</Pix_Amount2>
+	<Pix_Amount3>40</Pix_Amount3>
+</distance_in_mm>
